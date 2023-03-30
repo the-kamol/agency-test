@@ -2,7 +2,7 @@
 
 Agency test UI website for Applied Labs
 
-npm install
+npm install (use node 14 version)
 
 gulp watch
 
